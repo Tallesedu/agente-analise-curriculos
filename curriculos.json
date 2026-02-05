@@ -1,0 +1,120 @@
+[
+  {
+    "nome": "Thomas A. Anderson",
+    "area": "Desenvolvimento de Software e Análise de Dados",
+    "resumo": "Profissional de tecnologia com 5 anos de experiência em desenvolvimento de software e análise de dados, buscando ingressar no curso de Pós-Graduação em Ciência de Dados e Inteligência Artificial",
+    "habilidades": [
+      "Python",
+      "JavaScript",
+      "SQL",
+      "React",
+      "Node.js",
+      "Django",
+      "Git",
+      "Docker",
+      "Jupyter Notebook",
+      "Power BI",
+      "AWS",
+      "Google Cloud Platform",
+      "Pandas",
+      "NumPy",
+      "Tableau"
+    ],
+    "formacao": "Bacharelado em Ciência da Computação pela Universidade de São Paulo (USP)",
+    "recomendacao_perguntas": "Como você aplicaria suas habilidades em machine learning e big data em um projeto de desenvolvimento de software full stack?",
+    "strengths": [
+      "Experiência em desenvolvimento de software e análise de dados",
+      "Conhecimento em linguagens e frameworks relevantes",
+      "Certificações em nuvem e áreas relacionadas",
+      "Projetos próprios e contribuições open source"
+    ],
+    "areas_para_melhorar": [
+      "Experiência limitada em alguns frameworks e tecnologias específicas",
+      "Necessidade de aprofundar conhecimentos em áreas como segurança e escalabilidade"
+    ],
+    "considerecoes_importantes": [
+      "Verificar a compatibilidade das habilidades e experiência do candidato com as necessidades específicas da vaga",
+      "Avaliar a capacidade do candidato de trabalhar em equipe e se adaptar a novas tecnologias"
+    ],
+    "recomendacoes_finais": "O candidato apresenta um perfil sólido e compatível com as necessidades da vaga, com experiência relevante e habilidades técnicas adequadas. Recomenda-se prosseguir com a entrevista para avaliar melhor a compatibilidade e o potencial do candidato",
+    "score": 8.5
+  },
+  {
+    "nome": "Ana Clara Santos",
+    "area": "Desenvolvimento de Software",
+    "resumo": "Profissional com 4 anos de experiência em desenvolvimento de software, especializada em soluções web completas, com habilidades em front-end e back-end, buscando aprimorar conhecimentos em tecnologias emergentes.",
+    "habilidades": [
+      "React",
+      "Vue.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "Java (Spring Boot)",
+      "Python (Django)",
+      "PostgreSQL",
+      "Firebase",
+      "Redis",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Jest",
+      "Cypress",
+      "Selenium"
+    ],
+    "formacao": "Bacharelado em Sistemas de Informação pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio) e Curso Técnico em Informática pela Escola Técnica Estadual do Rio de Janeiro (FAETEC)",
+    "recomendacao_perguntas": "Como você lidaria com um projeto que requer a integração de múltiplas APIs e microsserviços, considerando a escalabilidade e a manutenibilidade?",
+    "strengths": [
+      "Experiência em desenvolvimento de software",
+      "Habilidades em front-end e back-end",
+      "Conhecimento em tecnologias emergentes",
+      "Certificações relevantes",
+      "Projetos pessoais e contribuições open source"
+    ],
+    "areas_para_melhorar": [
+      "Falta de experiência com Power BI ou ferramentas de visualização de dados",
+      "Necessidade de aprimorar habilidades em SQL"
+    ],
+    "considerecoes_importantes": [
+      "Verificar a profundidade do conhecimento em Python e Django",
+      "Avaliar a capacidade de trabalhar em equipe e colaborar com times multidisciplinares"
+    ],
+    "recomendacoes_finais": "Recomendo seguir com a entrevista para avaliar melhor as habilidades técnicas e a capacidade de trabalhar em equipe, considerando a experiência e as habilidades apresentadas no currículo.",
+    "score": 8.5
+  },
+  {
+    "nome": "Alex Costa",
+    "area": "Desenvolvimento Front-end e Design",
+    "resumo": "Profissional multidisciplinar com experiência em design, desenvolvimento front-end e estratégias de marketing digital",
+    "habilidades": [
+      "Figma",
+      "Adobe XD",
+      "Photoshop",
+      "Illustrator",
+      "Prototipagem Interativa",
+      "HTML/CSS",
+      "JavaScript (ES6+)",
+      "React.js",
+      "Vue.js",
+      "SASS",
+      "Node.js",
+      "Firebase"
+    ],
+    "formacao": "Bacharelado em Design Digital pela Universidade Federal do Paraná (UFPR) e Curso Técnico em Marketing Digital pelo Instituto de Tecnologia e Design (ITEDE)",
+    "recomendacao_perguntas": "Como você aborda a integração de design e desenvolvimento em seus projetos?",
+    "strengths": [
+      "Experiência em design de interfaces complexas",
+      "Habilidades técnicas em front-end",
+      "Conhecimento em marketing digital"
+    ],
+    "areas_para_melhorar": [
+      "Experiência limitada em back-end",
+      "Falta de conhecimento em Python e Django"
+    ],
+    "considerecoes_importantes": [
+      "Necessidade de adaptação às tecnologias específicas da vaga",
+      "Importância de destacar habilidades transferíveis"
+    ],
+    "recomendacoes_finais": "O candidato tem um perfil interessante, mas carece de experiência em algumas áreas específicas da vaga. Uma entrevista pode ajudar a esclarecer pontos como adaptação às tecnologias e habilidades transferíveis.",
+    "score": 7.5
+  }
+]
